@@ -3,5 +3,6 @@
 
 
 <a href="https://github.com/roxiomontes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvySmith-tech&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IvySmith-tech&theme=material-palenight" />
 </a><br>
+
